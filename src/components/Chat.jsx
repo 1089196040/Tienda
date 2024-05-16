@@ -1,9 +1,9 @@
-import  React from 'react'
+import React from 'react'
 
 function Chat () {
-    return (
-        <div>Esta es una demo de Chat</div>
-    )
+  return (
+    <div>Esto es una demo de Chat</div>
+  )
 }
 
 export default Chat
